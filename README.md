@@ -3,7 +3,7 @@
 
 ## About
 
-<p> Virtual Lab is a free, online educational resource provided for educational purposes. Virtual Lab simulates natural environments with the way life responds to changing conditions. We provide a world to be explored rather than a path to be followed. Background information and technical instruction help students learn by experimentation.</p>
+<p> Virtual Lab is a online educational resource provided for educational purposes. Virtual Lab simulates natural environments with the way life responds to changing conditions. We provide a world to be explored rather than a path to be followed. Background information and technical instruction help students learn by experimentation.</p>
 
 ***
 
